@@ -2,7 +2,7 @@
 
 # docker-image
 
-Source for [ghcr.io/vmware-tanzu/carvel-docker-image:latest](https://ghcr.io/vmware-tanzu/carvel-docker-image) that includes various Carvel tools.
+Source for [ghcr.io/carvel-dev/docker-image:latest](https://ghcr.io/carvel-dev/docker-image) that includes various Carvel tools.
 
 Image is based on latest `ubuntu`. It includes:
 
